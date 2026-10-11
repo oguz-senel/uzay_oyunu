@@ -29,7 +29,7 @@ dis()
 
 Tahminim: 5 yazar
 Gercek sonuc: 5
-Nedeni: ic fonksiyonu kendi icinde y bulamayinca bir distaki dis fonksiyonunun y degerini alir buna enclosing scope deniyor derste gormustuk LEGB kuralindaki E harfi
+Nedeni: ic fonksiyonu kendi icinde y bulamayinca bir distaki dis fonksiyonunun y degerini alir
 
 ## Ornek 3 UnboundLocalError
 
